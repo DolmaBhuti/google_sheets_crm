@@ -3,7 +3,7 @@
 ## Description
 A lightweight **Customer Relationship Management (CRM)** system built in Google Sheets for small organizations and solo operators who need a structured way to track customers and sales pipelines without the learning curve or cost of traditional CRM software.
 
-The system provides clear data relationships, guided workflows, and basic automation while remaining flexible and familiar to spreadsheet users.
+The system provides clear data relationships, guided workflows, and basic automation while remaining flexible and familiar to spreadsheet-based workflows.
 
 ## Usage
 
@@ -22,7 +22,6 @@ The system provides clear data relationships, guided workflows, and basic automa
    - Deal value  
    - Stage  
    - Probability  
-   - Created date
 5. The opportunity is now linked to the selected customer.
 
 ### 3. Log Activities (Calls, Emails, Meetings)
@@ -94,3 +93,8 @@ This CRM system includes light automation to reduce manual work while preserving
 ## Technical Highlights
 - **Google Sheets** — Structured data storage, validation, formulas, and reporting
 - **Google Apps Script** — Automation for workflow support and data integrity
+
+## Download and Use
+https://docs.google.com/spreadsheets/d/1aqYFwOjovnKIPd1yP8T5PGYEwuOs0Ctzx_umjM4ujyM/edit?usp=sharing 
+- Click File → Make a copy
+- Authorize Apps Script
