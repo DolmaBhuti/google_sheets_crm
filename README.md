@@ -1,9 +1,18 @@
 # My CRM System (Google Sheets)
 
+> **Note:** This CRM system was originally built in Google Sheets. Since GitHub cannot host live Google Sheets files, the full system is shared here as a read-only Excel export for portfolio demonstration.
+
 ## Description
+
 A lightweight **Customer Relationship Management (CRM)** system built in Google Sheets for small organizations and solo operators who need a structured way to track customers and sales pipelines without the learning curve or cost of traditional CRM software.
 
-The system provides clear data relationships, guided workflows, and basic automation while remaining flexible and familiar to spreadsheet-based workflows.
+The system provides clear data relationships, guided workflows, and basic automation while remaining flexible and familiar to spreadsheet workflows.
+
+## Live Link
+https://docs.google.com/spreadsheets/d/1aqYFwOjovnKIPd1yP8T5PGYEwuOs0Ctzx_umjM4ujyM/edit?usp=sharing  
+
+- Click **File → Make a copy**  
+- Authorize **Apps Script**
 
 ## Usage
 
@@ -33,7 +42,7 @@ The system provides clear data relationships, guided workflows, and basic automa
    - Type of interaction (Call, Email, Meeting, etc.)  
    - Summary of the interaction  
    - Next action  
-   - Follow-up date
+   - Follow-up date  
 5. The activity is now linked to both the customer and opportunity.
 
 ### 4. Track Follow-Ups
@@ -49,7 +58,7 @@ The system provides clear data relationships, guided workflows, and basic automa
    - Proposal / Demo  
    - Negotiation  
    - Closed Won  
-   - Closed Lost
+   - Closed Lost  
 3. Closed opportunities remain available for reporting and performance analysis.
 
 ## Automations & Business Logic
@@ -91,10 +100,5 @@ This CRM system includes light automation to reduce manual work while preserving
 - User-facing fields remain editable to support flexible workflows.
 
 ## Technical Highlights
-- **Google Sheets** — Structured data storage, validation, formulas, and reporting
+- **Google Sheets** — Structured data storage, validation, formulas, and reporting  
 - **Google Apps Script** — Automation for workflow support and data integrity
-
-## Download and Use
-https://docs.google.com/spreadsheets/d/1aqYFwOjovnKIPd1yP8T5PGYEwuOs0Ctzx_umjM4ujyM/edit?usp=sharing 
-- Click File → Make a copy
-- Authorize Apps Script
